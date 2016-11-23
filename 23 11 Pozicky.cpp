@@ -4,7 +4,7 @@
 void vypocetSplatky(float, float, int, float *);
 
 main(){
-	float suma, urok; 
+	float suma, urok; //declaration of variables
 	int dlzka;
 	float splatka, mesZarobok;
 	float castZarobku;
